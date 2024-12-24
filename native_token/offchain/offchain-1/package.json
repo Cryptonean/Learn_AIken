@@ -1,0 +1,19 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc",
+    "start": "node off-chain.cjs"
+  },
+  "dependencies": {
+    "@meshsdk/core": "^1.7.8",
+    "@meshsdk/common": "^1.0.0",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^20.17.6",
+    "@types/pouchdb-core": "^7.0.15"
+  }
+}
