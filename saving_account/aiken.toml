@@ -1,6 +1,6 @@
 name = "saving/saving_account"
 version = "0.0.0"
-compiler = "v1.1.2"
+compiler = "v1.1.9"
 plutus = "v3"
 license = "Apache-2.0"
 description = "Aiken contracts for project 'saving/saving_account'"
